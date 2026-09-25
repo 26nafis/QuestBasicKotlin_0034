@@ -45,3 +45,6 @@
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e3293972-483f-4751-b6f7-0c5c247b000e" />
 <img width="1919" height="1076" alt="image" src="https://github.com/user-attachments/assets/a8c5f189-5df2-4613-8b6a-bdf8bdc3f8df" />
 
+**CLASS**
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/bb4baa78-bb3f-40bd-a895-e351d3d6c9b9" />
+
