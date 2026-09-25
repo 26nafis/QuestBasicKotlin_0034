@@ -52,3 +52,6 @@
 
 **Properties**
 <img width="1919" height="1069" alt="image" src="https://github.com/user-attachments/assets/f8a99036-9588-4aec-8299-1091a81edecc" />
+
+**Create instance**
+<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/c1237c48-00d8-42f1-84ab-9236e053fe89" />
