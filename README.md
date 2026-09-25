@@ -79,3 +79,6 @@
 
 **Check for null values**
 <img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/81abfd62-8944-45d4-9e13-48c3715f249c" />
+
+**Use safe calls**
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/3ab35551-5b4f-451f-a41a-20448f6e7a57" />
