@@ -58,3 +58,7 @@
 
 **Access properties**
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/afadcddd-4709-4950-9232-6d9a062a3e7a" />
+
+**Member functions**
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/52087905-f64d-4c28-9799-51ab8b8848f4" />
