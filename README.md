@@ -64,3 +64,6 @@
 
 **Data classes**
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7b6b6481-4d39-4a76-bbd8-1905d915963f" />
+
+**Print as string**
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/cfde0b2e-3c31-4066-ab78-811249b185ac" />
