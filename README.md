@@ -50,3 +50,5 @@
 **CLASS**
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/bb4baa78-bb3f-40bd-a895-e351d3d6c9b9" />
 
+**Properties**
+<img width="1919" height="1069" alt="image" src="https://github.com/user-attachments/assets/f8a99036-9588-4aec-8299-1091a81edecc" />
