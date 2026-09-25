@@ -43,6 +43,8 @@
 
 **Functions without return**
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e3293972-483f-4751-b6f7-0c5c247b000e" />
+
+**Lambda expressions**
 <img width="1919" height="1076" alt="image" src="https://github.com/user-attachments/assets/a8c5f189-5df2-4613-8b6a-bdf8bdc3f8df" />
 
 **CLASS**
