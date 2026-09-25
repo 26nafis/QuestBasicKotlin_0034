@@ -82,3 +82,6 @@
 
 **Use safe calls**
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/3ab35551-5b4f-451f-a41a-20448f6e7a57" />
+
+**Use Elvis operator**
+<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/69f0fe8a-d6f3-4222-9d55-b2f2b4a295eb" />
