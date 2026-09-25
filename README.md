@@ -67,3 +67,6 @@
 
 **Print as string**
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/cfde0b2e-3c31-4066-ab78-811249b185ac" />
+
+**Compare instances**
+<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/56d63c49-567d-410c-95e4-057d92c6a3c7" />
