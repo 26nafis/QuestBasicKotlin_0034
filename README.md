@@ -70,3 +70,6 @@
 
 **Compare instances**
 <img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/56d63c49-567d-410c-95e4-057d92c6a3c7" />
+
+**Copy instance**
+<img width="1919" height="1064" alt="image" src="https://github.com/user-attachments/assets/eebcdf4e-3a6d-4554-8eeb-7f9f670d0812" />
