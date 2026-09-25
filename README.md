@@ -6,3 +6,13 @@
 
 **TIPE DATA DASAR**
 <img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/735be123-c8e1-4a3c-9271-aa1fdd7b2a8c" />
+
+**List**
+<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/8a67a627-8213-4468-9430-788c0bac1241" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/00783061-122f-47bf-bce7-02930c3f202b" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/fa105a63-98be-4747-8f5c-acdc0bb2bb32" />
+
+
+
+
+
