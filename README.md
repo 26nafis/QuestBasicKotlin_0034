@@ -22,3 +22,18 @@
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a4d04b7a-22aa-4ed2-acf3-6059bfa91870" />
 
 **WHEN**
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/803287b5-9d50-462a-bba1-d0cf42b2ed8e" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e6467f53-8377-4095-994e-78eb130b48d3" />
+
+**FOR**
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/af4c0387-ca4d-4a51-b50a-ac178a90faac" />
+
+**FUNCTION**
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/305a3441-3db8-4ce6-ac74-4029a1b7c9d2" />
+
+**NAMED ARGUMMENTS**
+<img width="1919" height="1076" alt="image" src="https://github.com/user-attachments/assets/bc551edc-d719-42fd-ae48-c602410e8303" />
+
+**Default parameter values**
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/5c02cf03-7ae3-45ac-8cae-df99d0de46ea" />
+
