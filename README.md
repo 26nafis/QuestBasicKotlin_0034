@@ -76,3 +76,6 @@
 
 **Nullable types**
 <img width="1919" height="1075" alt="image" src="https://github.com/user-attachments/assets/80865433-faf0-4f3f-b3c8-4e9673907440" />
+
+**Check for null values**
+<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/81abfd62-8944-45d4-9e13-48c3715f249c" />
