@@ -73,3 +73,6 @@
 
 **Copy instance**
 <img width="1919" height="1064" alt="image" src="https://github.com/user-attachments/assets/eebcdf4e-3a6d-4554-8eeb-7f9f670d0812" />
+
+**Nullable types**
+<img width="1919" height="1075" alt="image" src="https://github.com/user-attachments/assets/80865433-faf0-4f3f-b3c8-4e9673907440" />
