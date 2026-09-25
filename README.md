@@ -55,3 +55,6 @@
 
 **Create instance**
 <img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/c1237c48-00d8-42f1-84ab-9236e053fe89" />
+
+**Access properties**
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/afadcddd-4709-4950-9232-6d9a062a3e7a" />
